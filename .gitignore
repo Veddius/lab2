@@ -2,8 +2,3 @@
 __pycache__/
 *.pyc
 .DS_Store
-test-videos/
-results/*.mp4
-!results/own-video-tracked.mp4
-results/*.csv
-!results/own-video-stats.csv
